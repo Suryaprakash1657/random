@@ -1,0 +1,102 @@
+[
+  {
+    "city": "Paris",
+    "attractions": [
+      { "name": "Eiffel Tower", "type": "Landmark", "description": "Iconic tower with panoramic views." },
+      { "name": "Louvre Museum", "type": "Museum", "description": "World’s largest art museum." },
+      { "name": "Hotel Ritz Paris", "type": "Hotel", "description": "Luxury hotel offering refined dining and suites." },
+      { "name": "Le Meurice", "type": "Restaurant", "description": "Michelin-starred French fine dining." },
+      { "name": "Galeries Lafayette", "type": "Shopping", "description": "Famous Parisian department store." }
+    ]
+  },
+  {
+    "city": "Chennai",
+    "attractions": [
+      { "name": "Marina Beach", "type": "Beach", "description": "Second longest urban beach in the world." },
+      { "name": "Kapaleeshwarar Temple", "type": "Temple", "description": "Historic Dravidian-style Hindu temple." },
+      { "name": "Taj Coromandel", "type": "Hotel", "description": "Upscale hotel blending South Indian design with modern luxury." },
+      { "name": "Dakshin Restaurant", "type": "Restaurant", "description": "Authentic South Indian fine dining." },
+      { "name": "Express Avenue Mall", "type": "Shopping", "description": "One of Chennai’s largest shopping malls." }
+    ]
+  },
+  {
+    "city": "New York",
+    "attractions": [
+      { "name": "Statue of Liberty", "type": "Landmark", "description": "Symbol of freedom on Liberty Island." },
+      { "name": "Central Park", "type": "Park", "description": "Sprawling green oasis in Manhattan." },
+      { "name": "The Plaza Hotel", "type": "Hotel", "description": "Historic luxury hotel at Fifth Avenue." },
+      { "name": "Katz’s Delicatessen", "type": "Restaurant", "description": "Famous for pastrami sandwiches." },
+      { "name": "Fifth Avenue", "type": "Shopping", "description": "World-renowned shopping street." }
+    ]
+  },
+  {
+    "city": "Tokyo",
+    "attractions": [
+      { "name": "Tokyo Tower", "type": "Landmark", "description": "Red and white observation tower." },
+      { "name": "Meiji Shrine", "type": "Temple", "description": "Shinto shrine dedicated to Emperor Meiji." },
+      { "name": "Park Hyatt Tokyo", "type": "Hotel", "description": "Luxury hotel with skyline views." },
+      { "name": "Sukiyabashi Jiro", "type": "Restaurant", "description": "Legendary Michelin-starred sushi spot." },
+      { "name": "Shibuya 109", "type": "Shopping", "description": "Trendy fashion mall for youth culture." }
+    ]
+  },
+  {
+    "city": "London",
+    "attractions": [
+      { "name": "Big Ben", "type": "Landmark", "description": "Iconic clock tower of London." },
+      { "name": "British Museum", "type": "Museum", "description": "Holds millions of world artifacts." },
+      { "name": "The Savoy", "type": "Hotel", "description": "Historic luxury riverside hotel." },
+      { "name": "Dishoom Covent Garden", "type": "Restaurant", "description": "Indian-inspired dining experience." },
+      { "name": "Harrods", "type": "Shopping", "description": "World-famous luxury department store." }
+    ]
+  },
+  {
+    "city": "Dubai",
+    "attractions": [
+      { "name": "Burj Khalifa", "type": "Landmark", "description": "Tallest building in the world." },
+      { "name": "Dubai Mall", "type": "Shopping", "description": "Massive retail and entertainment hub." },
+      { "name": "Atlantis The Palm", "type": "Hotel", "description": "Luxury resort with waterpark and aquarium." },
+      { "name": "Pierchic", "type": "Restaurant", "description": "Overwater dining with seafood specialties." },
+      { "name": "Jumeirah Beach", "type": "Beach", "description": "White sand beach with views of Burj Al Arab." }
+    ]
+  },
+  {
+    "city": "Rome",
+    "attractions": [
+      { "name": "Colosseum", "type": "Landmark", "description": "Ancient Roman gladiatorial arena." },
+      { "name": "Vatican Museums", "type": "Museum", "description": "Houses the Sistine Chapel ceiling." },
+      { "name": "Hotel de Russie", "type": "Hotel", "description": "Elegant hotel near Piazza del Popolo." },
+      { "name": "Da Enzo al 29", "type": "Restaurant", "description": "Authentic Roman trattoria." },
+      { "name": "Via del Corso", "type": "Shopping", "description": "Popular shopping street in Rome." }
+    ]
+  },
+  {
+    "city": "Singapore",
+    "attractions": [
+      { "name": "Marina Bay Sands", "type": "Landmark", "description": "Skyline-defining integrated resort." },
+      { "name": "Gardens by the Bay", "type": "Park", "description": "Futuristic gardens with Supertrees." },
+      { "name": "Raffles Hotel", "type": "Hotel", "description": "Colonial-style luxury hotel." },
+      { "name": "Jumbo Seafood", "type": "Restaurant", "description": "Famous for chili crab." },
+      { "name": "Orchard Road", "type": "Shopping", "description": "Singapore’s main shopping belt." }
+    ]
+  },
+  {
+    "city": "Sydney",
+    "attractions": [
+      { "name": "Sydney Opera House", "type": "Landmark", "description": "World-famous performing arts venue." },
+      { "name": "Bondi Beach", "type": "Beach", "description": "Popular surfing and sunbathing spot." },
+      { "name": "Park Hyatt Sydney", "type": "Hotel", "description": "Luxury hotel overlooking the harbour." },
+      { "name": "Quay Restaurant", "type": "Restaurant", "description": "Fine dining with harbour views." },
+      { "name": "Queen Victoria Building", "type": "Shopping", "description": "Heritage shopping mall." }
+    ]
+  },
+  {
+    "city": "Cairo",
+    "attractions": [
+      { "name": "Pyramids of Giza", "type": "Landmark", "description": "Ancient world wonder." },
+      { "name": "Egyptian Museum", "type": "Museum", "description": "Holds Tutankhamun treasures." },
+      { "name": "Marriott Mena House", "type": "Hotel", "description": "Luxury hotel with pyramid views." },
+      { "name": "Felfela", "type": "Restaurant", "description": "Authentic Egyptian cuisine." },
+      { "name": "Khan el-Khalili", "type": "Shopping", "description": "Bustling traditional market." }
+    ]
+  }
+]
